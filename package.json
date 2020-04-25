@@ -1,0 +1,22 @@
+{
+  "name": "p5-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel ./index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "p5": "^1.0.0",
+    "sketch": "^0.2.0",
+    "tone": "^13.8.25"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  }
+}
